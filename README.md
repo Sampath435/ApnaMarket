@@ -6,18 +6,28 @@ This is a ApnaMarket web application developed using React for the frontend and 
 🚀 Tech Stack
 Frontend
 
-The frontend is built using React.js with modern hooks and component-based architecture. Styling is handled using Bootstrap / CSS, and API communication is done using Axios.
+The frontend is built using React.js with modern hooks and component-based architecture. Styling is handled using Bootstrap, and API communication is done using Axios.
+
 React.js
+
 React Router
+
 Axios
-Bootstrap 
+
+Bootstrap / CSS
+
 Vite (for fast builds and development)
 
 Backend
 
 The backend is developed using Spring Boot. It follows a layered architecture with controller, service, and repository layers.
+
 Java
+
 Spring Boot
+
 Spring Data JPA
+
 Hibernate
+
 MySQL 
